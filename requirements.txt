@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+matplotlib
+pydub
+opencv-python
+numpy
