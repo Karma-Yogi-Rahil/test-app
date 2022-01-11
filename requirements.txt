@@ -1,6 +1,6 @@
-streamlit
+tensorflow
 streamlit-webrtc
 matplotlib
-openCV-python-headless
+openCV-python
 pydub
 numpy
